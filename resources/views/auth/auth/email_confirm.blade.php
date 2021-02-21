@@ -1,0 +1,1 @@
+<a href="{{route('auth.auth.confirm',['id_user' => $id_user])}}">Confirm</a>

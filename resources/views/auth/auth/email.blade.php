@@ -1,0 +1,1 @@
+<a href="{{route('auth.auth.changepass',['id_user' => $id_user])}}">Change Password</a>
